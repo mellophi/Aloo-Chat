@@ -1,0 +1,68 @@
+TOI_025_Amit_Shah_launches_first_liquid_Nano_DAP_to_cut_fertiliser_import_bill.txt
+
+sentence 0 has trigger 
+ Launch
+
+sentence 1 has trigger 
+ Fertiliser
+
+Nano DAP is a type of fertiliser made up of nano-sized particles of diammonium phosphate (DAP). It is specially designed to provide plants with a more efficient and uniform uptake of the nutrients they need to grow and thrive. Nano DAP is a more concentrated form of the traditional DAP fertiliser, allowing for a more efficient delivery of nutrients to the root system of plants. Additionally, Nano DAP can help to reduce losses due to leaching, run-off and volatilization, making it a more sustainable option for farmers.
+
+sentence 2 has trigger 
+
+
+Launch
+
+sentence 3 has trigger 
+
+No
+
+Answer: No, one bottle of 500 ml of Nano DAP cannot replace a 50 kg bag of traditional DAP.
+
+sentence 4 has trigger 
+ Established
+
+sentence 5 has trigger 
+ Launching
+
+sentence 6 has trigger 
+
+
+Conserving
+
+sentence 7 has trigger 
+ exhorting
+
+sentence 8 has trigger 
+
+Fertiliser
+
+sentence 9 has trigger 
+ Estimate
+
+The estimation is that 18 crore bottles of nano DAP produced by 2025-26 will replace 90 lakh tonnes of conventional DAP.
+
+sentence 10 has trigger 
+ imported
+
+sentence 11 has trigger 
+ noted
+
+sentence 12 has trigger 
+ GOVERNMENT
+
+sentence 13 has trigger 
+
+
+said
+
+sentence 14 has trigger 
+ created
+
+sentence 15 has trigger 
+ improve
+
+sentence 16 has trigger 
+
+
+Start
